@@ -2,8 +2,7 @@
 
 Data:
 
-  -1 second interval data logged on Ethereum over a roughly 18 hour period
-  -Volume weighted average price of all limit orders within 1% of current price
+  -1 second interval data logged on Ethereum over a roughly 18 hour period with volume weighted average price of all limit orders within 1% of current price as an input variable
   
 Pre-processing:
 
