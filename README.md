@@ -14,4 +14,4 @@ Model:
   
 Analysis:
 
-  -Clearly cannot accurately predict the future price value 100 seconds in advance, however when compared against the current price, the predicted price realizes trends before they happen, although less than 100 seconds in advance.
+  -Clearly cannot accurately predict the future price value 100 seconds in advance, however when compared against the current price, the predicted price realizes trends before they happen. 
