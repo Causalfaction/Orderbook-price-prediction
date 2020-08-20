@@ -7,8 +7,7 @@ Data:
   
 Pre-processing:
 
-  -Shift price forward by t+100 intervals
-  -Split train and test data (90% train, 10% test)
+  -Shift price forward by t+100 intervals and split train and test data (90% train, 10% test)
   
 Model:
 
